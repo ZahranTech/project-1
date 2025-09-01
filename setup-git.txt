@@ -1,0 +1,9 @@
+طريقة الاستخدام:
+
+انسخ الكود واحفظه في ملف باسم setup-git.ps1 جوه فولدر المشروع.
+
+افتح PowerShell من نفس الفولدر.
+
+نفّذ:
+
+.\setup-git.ps1 -UserName "ZahranTech" -UserEmail "إalkhaled123455@gmail.com" -RepoUrl "https://github.com/ZahranTech/project-1.git"
